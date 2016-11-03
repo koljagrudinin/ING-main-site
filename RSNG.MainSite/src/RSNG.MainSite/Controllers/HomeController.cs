@@ -12,7 +12,7 @@ namespace RSNG.MainSite.Controllers
         {
             return View();
         }
-    
+
         public IActionResult Error()
         {
             return View();
